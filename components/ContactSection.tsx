@@ -1,6 +1,6 @@
 'use client'
 
-import { motion } from 'motion/react'
+import { motion } from "framer-motion";
 import { useInView } from './hooks/useInView'
 import { Card, CardContent } from './ui/card'
 import { Button } from './ui/button'
