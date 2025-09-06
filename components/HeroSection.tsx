@@ -1,6 +1,6 @@
 'use client'
 
-import { motion } from 'motion/react'
+import { motion } from "framer-motion";
 import { ChevronDown, ExternalLink } from 'lucide-react'
 import { Button } from './ui/button'
 import imgImage1 from 'figma:asset/0a585244a4409ceb2d45e5f4223da38bcae5937d.png'
