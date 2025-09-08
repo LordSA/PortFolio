@@ -2,5 +2,4 @@
 hee hee heee heee
 
 ente manasu kondu ithu oru portfolio akkanam but akumo yentho
-all the stars are tinkeringgggg
-ohhh godddd
+ith ennano full set akunne annu 
