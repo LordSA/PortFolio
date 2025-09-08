@@ -2,4 +2,5 @@
 hee hee heee heee
 
 ente manasu kondu ithu oru portfolio akkanam but akumo yentho
-ith ennano full set akunne annu 
+ith ennano full set akunne annu Njan ee readme file set akum or remove akkum 
+
